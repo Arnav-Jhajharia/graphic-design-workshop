@@ -1,0 +1,16 @@
+@font-face {
+    font-family: MyFont;
+    src: url('./VelaSans.otf')
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    font-family: MyFont;
+    letter-spacing: 5px;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: MyFont;
+}
